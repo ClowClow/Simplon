@@ -19,7 +19,7 @@
 		</div>
 		<div class="vide3">
 		</div>
-		<div>
+		<div class="foot">
 	  <?php include 'footer.php' ?>
 		</div>
 	</body>

@@ -28,3 +28,9 @@ footer {
   background-color: LawnGreen;
   height: 150px;
 }
+.foot {
+  bottom: -97%;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
