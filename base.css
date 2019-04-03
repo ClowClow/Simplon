@@ -1,9 +1,24 @@
 header {
   background-color: DeepSkyBlue;
   height: 150px;
-  width: 100%;
+  z-index: 1;
 }
 .vide1 {
-  background-color: orange;
+  background-color: SandyBrown;
   height: 800px;
+  z-index: 0;
+}
+.vide2 {
+  background-color: DeepSkyBlue;
+  height: 200px;
+  z-index: 0;
+}
+.vide3 {
+  background-color: SandyBrown;
+  height: 900px;
+  z-index: 0;
+}
+footer {
+  background-color: LawnGreen;
+  height: 150px;
 }

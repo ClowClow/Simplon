@@ -14,7 +14,13 @@
 	  <?php include 'header.php' ?>
 		</div>
 		<div class="vide1">
-		</div> 
-
+		</div>
+		<div class="vide2">
+		</div>
+		<div class="vide3">
+		</div>
+		<div>
+	  <?php include 'footer.php' ?>
+		</div>
 	</body>
 </html>
