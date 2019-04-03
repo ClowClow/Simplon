@@ -1,5 +1,9 @@
 header {
   background-color: DeepSkyBlue;
   height: 150px;
-  width: 100%; 
+  width: 100%;
+}
+.vide1 {
+  background-color: orange;
+  height: 800px;
 }

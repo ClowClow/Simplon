@@ -10,7 +10,11 @@
 	</head>
 
 	<body>
-
+		<div>
 	  <?php include 'header.php' ?>
+		</div>
+		<div class="vide1">
+		</div> 
+
 	</body>
 </html>
